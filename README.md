@@ -1,2 +1,2 @@
-# storyui
+# StoryUI
 An extendable web builder
