@@ -26,3 +26,4 @@ Components are created by extending the html markup with custom attributes.
 
 You can sync multiple elements by setting the exact same attribute. For example you have two different navigation panels for mobile and desktop but the href should always be the same. Then by setting ```data-sui-bind:href="Item link 1"``` to both a tags will render only one control for multiple elements in the code.
 
+<p align="center"><img src="/hero.jpg" alt="Screenshot storyui"></p>
